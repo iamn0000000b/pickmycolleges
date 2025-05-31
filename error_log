@@ -1,0 +1,45 @@
+[05-Jun-2024 19:27:20 UTC] PHP Warning:  require(/home4/pickmnyi/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/pickmnyi/public_html/index.php on line 34
+[05-Jun-2024 19:27:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/pickmnyi/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/pickmnyi/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/pickmnyi/public_html/index.php on line 34
+[05-Jun-2024 19:28:20 UTC] PHP Warning:  require(/home4/pickmnyi/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/pickmnyi/public_html/index.php on line 34
+[05-Jun-2024 19:28:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/pickmnyi/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/pickmnyi/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/pickmnyi/public_html/index.php on line 34
+[18-Mar-2025 14:11:17 UTC] PHP Warning:  require_once(/home4/pickmnyi/public_html/public/index.php): Failed to open stream: No such file or directory in /home4/pickmnyi/public_html/server.php on line 21
+[18-Mar-2025 14:11:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/pickmnyi/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/pickmnyi/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/pickmnyi/public_html/server.php on line 21
+[26-Mar-2025 01:52:47 UTC] PHP Warning:  require_once(/home4/pickmnyi/public_html/public/index.php): Failed to open stream: No such file or directory in /home4/pickmnyi/public_html/server.php on line 21
+[26-Mar-2025 01:52:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/pickmnyi/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/pickmnyi/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/pickmnyi/public_html/server.php on line 21
+[03-Apr-2025 04:32:37 UTC] PHP Warning:  require_once(/home4/pickmnyi/public_html/public/index.php): Failed to open stream: No such file or directory in /home4/pickmnyi/public_html/server.php on line 21
+[03-Apr-2025 04:32:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/pickmnyi/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/pickmnyi/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/pickmnyi/public_html/server.php on line 21
+[08-Apr-2025 15:57:59 UTC] PHP Warning:  require_once(/home4/pickmnyi/public_html/public/index.php): Failed to open stream: No such file or directory in /home4/pickmnyi/public_html/server.php on line 21
+[08-Apr-2025 15:57:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/pickmnyi/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/pickmnyi/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/pickmnyi/public_html/server.php on line 21
+[09-Apr-2025 12:07:02 UTC] PHP Warning:  require_once(/home4/pickmnyi/public_html/public/index.php): Failed to open stream: No such file or directory in /home4/pickmnyi/public_html/server.php on line 21
+[09-Apr-2025 12:07:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/pickmnyi/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/pickmnyi/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/pickmnyi/public_html/server.php on line 21
+[14-Apr-2025 02:16:23 UTC] PHP Warning:  require_once(/home4/pickmnyi/public_html/public/index.php): Failed to open stream: No such file or directory in /home4/pickmnyi/public_html/server.php on line 21
+[14-Apr-2025 02:16:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/pickmnyi/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/pickmnyi/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/pickmnyi/public_html/server.php on line 21
+[15-Apr-2025 13:55:06 UTC] PHP Warning:  require_once(/home4/pickmnyi/public_html/public/index.php): Failed to open stream: No such file or directory in /home4/pickmnyi/public_html/server.php on line 21
+[15-Apr-2025 13:55:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/pickmnyi/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/pickmnyi/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/pickmnyi/public_html/server.php on line 21
