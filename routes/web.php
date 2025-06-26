@@ -10,8 +10,10 @@ use App\Http\Controllers\Admin\ExamCategoryController;
 use App\Http\Controllers\Admin\ExamController;
 use App\Http\Controllers\Admin\GoalController;
 use App\Http\Controllers\Admin\PageController;
+use App\Http\Controllers\Admin\ScraperController;
 use App\Http\Controllers\Admin\SettingController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 
 
 Route::redirect('/login', '/admin/login')->name('login');
@@ -42,6 +44,9 @@ Route::group(['middleware' => 'auth'], function() {
 
         Route::get('/settings', [SettingController::class, 'index'])->name('settings.index');
         Route::post('/settings', [SettingController::class, 'update'])->name('settings.update');
+
+        
+        Route::get('/scraper', [ScraperController::class, 'index'])->name('scraper.index');
     });
 });
 
